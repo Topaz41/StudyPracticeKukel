@@ -1,0 +1,12 @@
+commit f75539db052332f19dd0d0ec1951580fb4a4a8f2
+Author: KukelEugheny <zeeny123@mail.ru>
+Date:   Tue Feb 6 17:03:16 2018 +0200
+
+    add task1/status.txt
+
+commit 1bbd2aeda21e691bee6604033ccdc4fd939accfb
+Author: KukelEugheny <zeeny123@mail.ru>
+Date:   Tue Feb 6 16:59:10 2018 +0200
+
+    add .gitignore
+
